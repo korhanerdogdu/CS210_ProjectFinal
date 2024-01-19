@@ -35,7 +35,7 @@ This Individual Project has been done for the CS210 Introduction to Data Science
 - This tehnique is used for training the model for guessing the account names by using the other column data that are present in the dataframe, and also used for guessing the other column data by looking at the account name.
 
 
-## Hyphotesis
+## Hypothesis
 - I am by far more into accounts that are related to basketball than other accounts and I spent so much time in instagram especially in two periods of a day, which are 12 AM and the time between 2 AM and 5 AM. This sleepless situation might represent the intense program of the term. 
 
 
