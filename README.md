@@ -15,7 +15,7 @@ This Individual Project has been done for the CS210 Introduction to Data Science
 ---------------------
 
 #### What is the data source: 
-- Instagram data has been downloaded for the use of this project. The downloaded data consists of data such as the posts views, posts likes, comments and all specific information that comes to mind. For the efficiency and for the better understanding, post views and post likes of the data are used for giving a meaningful picture of mine. At the end of the proccessing the data, the project enabled me to figure out what kind of accounts that I most interacted with, at what time and what are they all about. i.e sports (basketball, footbal...), art, psychology, music(artist accounts) and etc... 
+- My Instagram data has been downloaded for the use of this project. The downloaded data consists of data such as the posts views, posts likes, comments and all specific information that comes to mind. For the efficiency and for the better understanding, post views and post likes of the data are used for giving a meaningful picture of mine. At the end of the proccessing the data, the project enabled me to figure out what kind of accounts that I most interacted with, at what time and what are they all about. i.e sports (basketball, footbal...), art, psychology, music(artist accounts) and etc... 
 
 ## Exploratory Data Analysis
 - This method is used to arrange the data to specific format, prepare for visualization process. This method enabled to get both all account informations and also only one specific account information such as how many times this account got in a interaction with me. 
